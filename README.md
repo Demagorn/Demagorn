@@ -11,7 +11,7 @@ After a decade in my field I’m looking to expend my horizon and started my Pyt
 and the path going through  ̶M̶o̶r̶d̶o̶r̶ / a position of active Python programmer. 
 I have a passion and a vision (or hallucinations) that the future of medical market will be based od AI and I’m looking to join   ̶T̶h̶e̶ ̶M̶a̶t̶r̶i̶x̶ . 
 You can reach me via LinkedIn
-linkedin.com/in/sergey-gorkhover-b9393784
+[This is an external link to linkedin] (https://linkedin.com/in/sergey-gorkhover-b9393784)
 
 
 
